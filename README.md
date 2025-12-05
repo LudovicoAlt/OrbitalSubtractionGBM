@@ -1,3 +1,9 @@
+
+
+[![DOI](https://zenodo.org/badge/736409431.svg)](https://doi.org/10.5281/zenodo.17831670)
+
+
+
 Tested for Windows 11 and Ubuntu 22.04<br>
 Python 3.11.7 (in case `conda create -n "myenv" python=3.11.7`)<br>
 Requires:<br>
@@ -56,3 +62,16 @@ Prints out the current config file (not elegant at the moment) but it allows you
 `python osv.py ver` 
 
 Check osv.py version 
+
+If you use my code please kindly use this 
+
+```bibtex
+@misc{DeSantis_OSV,
+  author       = {De Santis, Alessio Ludovico},
+  title        = {{OSV}},
+  publisher    = {Zenodo},
+  year         = {2024},
+  doi          = {10.5281/zenodo.17831670},
+  url          = {https://doi.org/10.5281/zenodo.17831670}
+}
+```
