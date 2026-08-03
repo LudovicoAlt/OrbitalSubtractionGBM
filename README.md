@@ -68,11 +68,11 @@ If you use my updated code, kindly it cite as
 ```bibtex
 @misc{DeSantis_OSV,
   author       = {De Santis, Alessio Ludovico},
-  title        = {{OSV}},
+  title        = {{GBM Orbital Subtraciton Tool}},
   publisher    = {Zenodo},
   year         = {2024},
-  doi          = {10.5281/zenodo.17831670},
-  url          = {https://doi.org/10.5281/zenodo.17831670}
+  doi          = {10.5281/zenodo.17831671},
+  url          = {https://doi.org/10.5281/zenodo.17831671}
 }
 ```
 
