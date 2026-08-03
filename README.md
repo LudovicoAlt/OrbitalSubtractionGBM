@@ -63,7 +63,7 @@ Prints out the current config file (not elegant at the moment) but it allows you
 
 Check osv.py version 
 
-If you use my code please kindly use this 
+If you use my updated code, kindly it cite as
 
 ```bibtex
 @misc{DeSantis_OSV,
@@ -75,3 +75,24 @@ If you use my code please kindly use this
   url          = {https://doi.org/10.5281/zenodo.17831670}
 }
 ```
+
+Also acknowledge the original developers of the python2 version of the code
+```bibtex
+@ARTICLE{2011arXiv1111.3779F,
+       author = {{Fitzpatrick}, Gerard and {Connaughton}, Valerie and {McBreen}, Sheila and {Tierney}, Dave},
+        title = "{Uncovering low-level Fermi/GBM emission using orbital background subtraction}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = 2011,
+        month = nov,
+          eid = {arXiv:1111.3779},
+        pages = {arXiv:1111.3779},
+          doi = {10.48550/arXiv.1111.3779},
+archivePrefix = {arXiv},
+       eprint = {1111.3779},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2011arXiv1111.3779F},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
+
